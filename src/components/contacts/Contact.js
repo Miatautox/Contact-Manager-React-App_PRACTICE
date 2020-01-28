@@ -48,7 +48,7 @@ class Contact extends Component {
                       cursor: "pointer",
                       float: "right",
                       color: "darkgray",
-                      marginRight: "1rem",
+                      marginRight: "1rem,",
                     }}
                   ></i>
                 </Link>

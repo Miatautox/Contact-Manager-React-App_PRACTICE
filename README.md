@@ -1,4 +1,4 @@
-To find the deplayed version of this app follow the below link
+To find the deployed version of this app follow the below link
 
 https://Miatautox.github.io/Contact-Manager-React-App_PRACTICE
 

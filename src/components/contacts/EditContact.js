@@ -47,9 +47,9 @@ class EditContact extends Component {
     }
 
     const updateContact = {
-      name,
-      email,
-      phone,
+      name, // using the new ES6 shortcuts this is equal to name : name,
+      email, // this is equal to email : email,
+      phone, // this is equal to phone : phone,
     };
 
     const { id } = this.props.match.params;
